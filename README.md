@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻Computer Science Senior | Illinois Institute of Technology 2023 <br>📖DPI Research Scholar <br>🌱I’m currently learning MERN Stack<br>💬Ask me about tech 24/7<br>⚡Interested in SDE, Web/Mobile App Dev, AI/ML
+👨‍💻Computer Science Senior | Illinois Institute of Technology 2023 <br>📖DPI Research Scholar <br>🌱I’m currently learning MERN Stack<br>💬Ask me about tech 24/7<br>⚡Interested in SDE, Web/Mobile App Dev, AI/ML<br> 🌐http://mohammadumar.com/
 
 
 ## 🌐 Socials:
